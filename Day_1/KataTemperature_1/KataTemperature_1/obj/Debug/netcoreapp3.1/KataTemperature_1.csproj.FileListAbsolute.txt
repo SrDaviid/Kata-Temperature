@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\bin\Debug\netcoreapp3.1\KataTemperature_1.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\bin\Debug\netcoreapp3.1\KataTemperature_1.dll
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\bin\Debug\netcoreapp3.1\KataTemperature_1.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.dll
+C:\Users\LENOVO\OneDrive\Escritorio\KataTempDays\KataTemperature_1\KataTemperature_1\obj\Debug\netcoreapp3.1\KataTemperature_1.pdb
